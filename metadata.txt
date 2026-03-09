@@ -1,0 +1,15 @@
+[general]
+name=Hausdorff Alts
+qgisMinimumVersion=3.28
+description=Processing-only algorithms for directed and symmetric discrete Hausdorff distance.
+version=0.1.0
+author=hausdorff_alts
+email=
+about=Adds a Processing provider with directed and symmetric Hausdorff distance tools.
+tracker=
+repository=
+category=Analysis
+icon=
+experimental=True
+deprecated=False
+hasProcessingProvider=True
